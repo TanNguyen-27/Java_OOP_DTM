@@ -7,6 +7,7 @@ public class bai2 {
         chieucao=chieudai;
         this.chieurong=chieurong;
     }
+
     public double getChieurong() {
         return chieurong;
     }
@@ -22,11 +23,7 @@ public class bai2 {
             System.out.println("ko hop le!");
         }
     }
-        public void hienthi(){
-            System.out.println("chieu dai= "+ chieucao);
-            System.out.println("chieu rong= "+ chieurong);
-            getDTHCN();
-        }
+
 }
 
 

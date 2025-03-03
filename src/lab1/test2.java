@@ -9,7 +9,6 @@ public class test2 {
         double chieucao= tc.nextDouble();
         System.out.println("nhap chieu rong:");
         double chieurong= tc.nextDouble();
-        bai2 s2= new bai2(chieucao,chieurong);
-        s2.hienthi();
+
     }
 }
